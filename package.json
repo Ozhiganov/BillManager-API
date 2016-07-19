@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "application-name",
   "version": "0.0.1",
   "private": true,
@@ -15,3 +16,16 @@
     "jade": "~1.3.0"
   }
 }
+=======
+  "name": "billmgrapi",
+  "version": "0.1.0",
+  "description": "DB Connection for BillManager",
+  "main": "index.js",
+  "repository": "https://github.com/Linschlager/BillManager-API.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linus T. Vettiger (linus.vettiger@gibmit.ch)",
+  "license": "MIT"
+}
+>>>>>>> 721d69dd3745340488a8b0a5ac22caaea657e721
